@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1622262323 source:c:\users\nielit\desktop\projects\student_project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1622262367 source:c:\users\nielit\desktop\projects\student_project\create_db.c
+	<stdio.h>
+
+1622262932 source:c:\users\nielit\desktop\projects\student_project\display_db.c
+	<stdio.h>
+
+1622263663 source:c:\users\nielit\desktop\projects\student_project\search_db.c
+	<stdio.h>
+
